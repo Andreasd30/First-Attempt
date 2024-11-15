@@ -1,5 +1,3 @@
-# Data_Analyst Fisrt try 
-
 # Welcome to My GitHub! 👋
 
 ## 🌱 About Me
